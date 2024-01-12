@@ -1,0 +1,9 @@
+Group ID: G3-7
+
+Muhammad Owais CS-22080
+Zuhaib Noor CS-22081
+Ayan Khan CS-22083
+
+This zipped folder contains two folders:
+(1) G3-7 Lab12 (containing the .py file of exercises b,c & d and pdf of exercise a) 
+(2) G3-7 OEL (containing the OEL files with report(in pdf) )
